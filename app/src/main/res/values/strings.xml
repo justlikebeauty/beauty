@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Eastern Beauty</string>
+	<string name="label_title">Eastern Beauty</string>
+	<string name="beautiful_temperament">Temperament</string>
+	<string name="fashion">Fashion Beauty</string>
+	<string name="pure_beauty">Lily-like &#160;&#160; Girls</string>
+	<string name="adorable_girls">Adorable &#160; Girls</string>
+	<string name="classic_beauty">Troditional Beauty</string>
+	<string name="long_hair_beauty">Long Hair Beauty</string>
+	<string name="school_flowers">Beauty in School</string>
+	<string name="long_legs">Long Legs Beauty</string>
+	<string name="model_beauty">Model &#160;&#160; Beauty</string>
+	<string name="sexy_girls">Sexy &#160;&#160;&#160; Girls</string>
+	
+    <string name="action_background">Background</string>
+    <string name="descr_image">avoid warning</string>
+    
+    <!-- pull refresh -->
+    <string name="pull_to_refresh">Pull to Refresh</string>
+	<string name="release_to_refresh">Release to Refresh</string>
+	<string name="refreshing">Refreshing …</string>
+    
+    <!-- Menu -->
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+	<string name="menu_item_clear_disc_cache">Clear disc cache</string>
+	<string name="menu_item_pause_on_scroll">Pause on scroll</string>
+	<string name="menu_item_pause_on_fling">Pause on fling</string>
+
+</resources>

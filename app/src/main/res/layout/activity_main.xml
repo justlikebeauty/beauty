@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg0" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <!--
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="10dip"
+            android:text="@string/label_title"
+            android:textSize="24sp" />
+        -->
+
+        <Button
+            android:id="@+id/btn_temperament"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/beautiful_temperament" />
+
+        <Button
+            android:id="@+id/btn_fashion"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/fashion" />
+
+        <Button
+            android:id="@+id/btn_pure"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/pure_beauty" />
+
+        <Button
+            android:id="@+id/btn_adorable"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/adorable_girls" />
+
+        <Button
+            android:id="@+id/btn_classic"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/classic_beauty" />
+
+        <Button
+            android:id="@+id/btn_longhair"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/long_hair_beauty" />
+
+        <Button
+            android:id="@+id/btn_school"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/school_flowers" />
+
+        <Button
+            android:id="@+id/btn_longlegs"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/long_legs" />
+
+        <Button
+            android:id="@+id/btn_model"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/model_beauty" />
+
+        <Button
+            android:id="@+id/btn_sexy"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="2dip"
+            android:background="@drawable/button_b_style"
+            android:text="@string/sexy_girls" />
+    </LinearLayout>
+
+</ScrollView>
